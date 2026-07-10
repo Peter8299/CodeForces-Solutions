@@ -9,6 +9,7 @@ I code here
 | [0014-longest-common-prefix](https://github.com/Peter8299/Coding-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Peter8299/Coding-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Peter8299/Coding-Questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Peter8299/Coding-Questions/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,8 @@ I code here
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Peter8299/Coding-Questions/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Peter8299/Coding-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
