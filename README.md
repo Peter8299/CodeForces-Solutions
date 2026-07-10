@@ -22,10 +22,12 @@ I code here
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Peter8299/Coding-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Peter8299/Coding-Questions/tree/master/0027-remove-element) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Peter8299/Coding-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Peter8299/Coding-Questions/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Peter8299/Coding-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
